@@ -3,6 +3,18 @@ img {
     width: 80px;
  } 
  h1 {display: inline-block; 
-     width: 90px;
+     font-size: 55px;
+     margin-top: 35px;
 } 
 
+
+main { background-color:rgba(0, 0, 0, 0.05);
+    height: 1200px;
+       
+} 
+
+#contenitore { 
+    width: 900px;
+    text-align: center;
+
+} 
